@@ -1,0 +1,19 @@
+{
+  "basics";
+  {
+  "photo":"profile.jpg",
+  "name":"n jhansi",
+  "email":"djhansilakshmi@gmail.com",
+  "mobile":"8886016842",
+  "Address":"penumur"
+}
+{
+"coures":"B.Sc(computer)",
+"college":"R.K.M degree college",
+"data":["2012-15","74.9%"]
+}
+{
+  "coures":"S.S. C",
+"college":"Z.P.High school",
+  "data":["2012","97%"]
+  }
